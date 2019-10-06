@@ -13,7 +13,7 @@ Program kullanıcıya doğum gününü sorar ve 2019 itibariyle kullanıcının 
 **Örnek Çalıştırma 1**  
 Doğum Tarihinizi Giriniz:
 ```html
-<span style="color:blue">**1971** </span>  
+<span style="color:blue">**1971** </span> ``` 
 2019 itibariyle 48 yaşındasınız
 
 **Örnek Çalıştırma 2**  
