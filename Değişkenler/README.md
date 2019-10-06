@@ -2,7 +2,7 @@
 
 Aşağıdaki problemlerde, programlar çalıştırılmıştır, ve örnek girdilerle çıktıları gösterilmiştir.
 
-Programın yazdırdıkları siyah ile, kullanıcının girdiği değerler mavi renkte gösterilmiştir.
+Programın yazdırdıkları siyah ile, kullanıcının girdiği değerler kalın harflerle gösterilmiştir.
 
 ## Problem 1 - Yaş Bulma
 
@@ -12,14 +12,12 @@ Program kullanıcıya doğum gününü sorar ve 2019 itibariyle kullanıcının 
 
 **Örnek Çalıştırma 1**  
 Doğum Tarihinizi Giriniz:
-```html
-<span style="color:blue">**1971** </span> 
-``` 
+ **1971**  
 2019 itibariyle 48 yaşındasınız
 
 **Örnek Çalıştırma 2**  
 Doğum Tarihinizi Giriniz:
-<span style="color:blue">**1990** </span>  
+**1990**    
 2019 itibariyle 29 yaşındasınız
 
 ---
@@ -35,15 +33,15 @@ Girilen sayı kere kelimeyi yazmaktadır ekrana.
 
 **Örnek Çalıştırma 1**  
 Bir Kelime giriniz
-<span style="color:blue">**Mars** </span>  
+**Mars**  
 Kelimenin kaç kere tekrar edeceğini giriniz
-<span style="color:blue">**3** </span>  
+**3**   
 MarsMarsMars
 
 Bir Kelime giriniz
-<span style="color:blue">**12. Cadde** </span>  
+**12. Cadde**    
 Kelimenin kaç kere tekrar edeceğini giriniz
-<span style="color:blue">**2** </span>  
+**2**   
     12. Cadde12. Cadde
 
 ---
