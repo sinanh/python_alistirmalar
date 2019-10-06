@@ -34,14 +34,13 @@ Girilen sayı kere kelimeyi yazmaktadır ekrana.
 **Örnek Çalıştırma 1**  
 Bir Kelime giriniz
 **Mars**  
-Kelimenin kaç kere tekrar edeceğini giriniz
-**3**   
+Kelimenin kaç kere tekrar edeceğini giriniz: **3**   
 MarsMarsMars
 
+**Örnek Çalıştırma 2**  
 Bir Kelime giriniz
 **12. Cadde**    
-Kelimenin kaç kere tekrar edeceğini giriniz
-**2**   
-    12. Cadde12. Cadde
+Kelimenin kaç kere tekrar edeceğini giriniz: **2**   
+12. Cadde12. Cadde
 
 ---
