@@ -58,13 +58,13 @@ Program bir kelime ve doğum tarihi almakta, ve girilen kelime ve doğum tarihin
 Bir Kelime giriniz
 **erzurum**  
 Doğum tarihinizi giriniz: **1980**   
-Şifreniz erzurum80 olarak belirlenmiştir
+Şifreniz erzurum80 olarak belirlendi.
 
 **Örnek Çalıştırma 2**  
 Bir Kelime giriniz
 **araba**  
 Doğum tarihinizi giriniz: **1973**   
-Şifreniz araba73 olarak belirlenmiştir
+Şifreniz araba73 olarak belirlendi.
 
 
 ---
