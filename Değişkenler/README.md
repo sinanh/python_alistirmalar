@@ -44,3 +44,27 @@ Kelimenin kaç kere tekrar edeceğini giriniz: **2**
 12. Cadde12. Cadde
 
 ---
+
+
+---
+
+## Problem 3 - Şifre Üretici
+
+Program bir kelime ve doğum tarihi almakta, ve girilen kelime ve doğum tarihinin son 2 hanesinden bir şifre üretmektedir.
+
+---
+
+**Örnek Çalıştırma 1**  
+Bir Kelime giriniz
+**erzurum**  
+Doğum tarihinizi giriniz: **1980**   
+Şifreniz erzurum80 olarak belirlenmiştir
+
+**Örnek Çalıştırma 2**  
+Bir Kelime giriniz
+**erzurum**  
+Doğum tarihinizi giriniz: **1973**   
+Şifreniz araba73 olarak belirlenmiştir
+
+
+---
