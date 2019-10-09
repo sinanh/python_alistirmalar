@@ -62,7 +62,7 @@ Doğum tarihinizi giriniz: **1980**
 
 **Örnek Çalıştırma 2**  
 Bir Kelime giriniz
-**erzurum**  
+**araba**  
 Doğum tarihinizi giriniz: **1973**   
 Şifreniz araba73 olarak belirlenmiştir
 
