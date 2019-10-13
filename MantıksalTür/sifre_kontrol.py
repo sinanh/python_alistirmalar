@@ -6,15 +6,13 @@ Created on Sun Sep 29 13:29:02 2019
 @author: sinan
 """
 
+SIFRE = "safak"
 
- 
-SIFRE = 'şafak'
+girilen_sifre = input("şifre giriniz")
 
-girilen_sifre = input('şifrenizi girin')
-esit_mi = girilen_sifre == SIFRE
+if girilen_sifre == SIFRE:
+    print("şifreniz doğrudur")
 
-print('sonuc', esit_mi)
+else:
+    print("şifre yanlış")
 
-
-
- 
