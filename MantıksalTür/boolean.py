@@ -11,10 +11,9 @@ Created on Sun Sep 29 13:29:02 2019
 SIFRE = 'şafak'
 
 girilen_sifre = input('şifrenizi girin')
-sonuc = girilen_sifre == SIFRE
+esit_mi = girilen_sifre == SIFRE
 
-if sonuc == True:
-    print('şifre doğru')
+print('girilen gerçek şifreye eşit mi: ', esit_mi )
 
 
 
