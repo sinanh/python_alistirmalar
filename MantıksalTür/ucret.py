@@ -6,7 +6,7 @@ Created on Sun Oct 13 10:55:28 2019
 @author: sinan
 """
 
-yas = input('yaşınızı girin')
+yas = int(input('yaşınızı girin'))
 
 if yas < 18:
     print('2 lira')
