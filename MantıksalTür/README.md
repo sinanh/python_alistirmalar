@@ -9,5 +9,9 @@ Program kullanıcıdan 3 sayı almaktadır, ve bunların en büyüğünü ekrana
 * max() fonksiyonu kullanarak yapmaya çalışın
 
 
-# Problem 2 - Üçgen
+# Problem 2 - Üçgen Kenarlar
 Program kullanıcıdan üç kenar uzunluğu almaktadır, ve bu üç sayı ile bir üçgen çizilip çizilmeyeceğini söyler. Bir üçgende 2 kenarın uzunluğu toplamı her zaman 3. kenardan uzun olmalıdır.
+
+
+# Problem 3 - Üçgen Açılar
+Program kullanıcıdan üç açı almaktadır, ve bu üç açı ile bir üçgen çizilip çizilmeyeceğini söyler.  
