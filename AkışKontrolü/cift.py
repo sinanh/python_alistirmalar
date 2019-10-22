@@ -14,6 +14,6 @@ print("Sayınız",a)
 """
  DRY prensinbi 
 Daha düzgün bir programlama yapabilmememiz için DRY prensibine dikkat etmeliyiz.
-Tekrara düşmemeliliyiz 
+Tekrara düşmemeliyiz 
 """
  
