@@ -6,7 +6,7 @@ value_3 = int(input('Enter the third number value: '))
 
 if value_1 == value_2 == value_3:
     print('The number are equal')
-
+     
 elif value_1 > value_2 > value_3:
     print(f'Maximum number = {value_1}')
 
