@@ -11,7 +11,7 @@ angle_3 = int(input('Enter the third angle value: '))
 print('-'*50)
 
 if angle_1 + angle_2 + angle_3 == 180:
-    print('triangle can be drawn')
+    print('triangle can be drawn ')
 
 else:
-    print('triangle can not be drawn')
+    print('triangle can not be drawn ')
