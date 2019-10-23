@@ -1,6 +1,6 @@
 print("With max function")
 print("MAXİMUM NUMBER CODE")
-
+ 
 value_1 = int(input('Enter the first number value: '))
 value_2 = int(input('Enter the second number value: '))
 value_3 = int(input('Enter the third number value: '))
