@@ -15,3 +15,6 @@ Program kullanıcıdan üç kenar uzunluğu almaktadır, ve bu üç sayı ile bi
 
 # Problem 3 - Üçgen Açılar
 Program kullanıcıdan üç açı almaktadır, ve bu üç açı ile bir üçgen çizilip çizilmeyeceğini söyler.  
+
+# Problem 4 - Maaş Günü
+TC Kimlik numarasının ortadaki numarasının 5'den büyük veya çift ise ayın 1. haftası, 5'den küçük veya tek ise ayın 2. haftası maaş verilecektir. Girdi olarak TC kimlik alır.
