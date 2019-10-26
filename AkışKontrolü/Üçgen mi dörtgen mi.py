@@ -23,10 +23,10 @@ elif (şekil == "üçgen"):
     b = float(input("İkinci kenarı gir."))
     c = float(input("Üçüncü kenarı gir."))
 
-    if abs(a-b)< c < abs(a+b) and abs(a-c) < b < abs(a+c) and abs(b-c) < a < abs(a+c):
+    if abs((a-b)< c < (a+b) and (a-c) < b < (a+c) and (b-c) < a < (a+c)):
         if a == b and a == c:
             print("Eşkenar üçgen.")
-        elif a == b and a != c or a == c and a != b:
+        elif a == b and a != c or a == c and a != b or b == c and b =! a:
             print("İkizkenar üçgen")
         else:
             print("Çeşitkenar üçgen.")
