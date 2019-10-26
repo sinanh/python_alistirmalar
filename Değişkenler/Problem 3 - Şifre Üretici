@@ -1,0 +1,12 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+Created on Wed Oct 23 01:58:41 2019
+
+@author: tsc
+"""
+
+Sehir = input("Lütfen bulunduğunuz ili giriniz").lower().strip()
+Dogum_tarihi = int(input("Lütfen doğum tarihini giriniz"))
+a = str(Dogum_tarihi)
+print("Yeni Oluşturulan Şifreniz"+" "+Sehir+a[2:])
