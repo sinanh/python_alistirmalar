@@ -1,7 +1,7 @@
 import math
 
 
-şekil = input("Üçgen mi Dörtgen mi?")
+şekil = input("Üçgen mi Dörtgen mi?").lower()
 
 if (şekil == "dörtgen") :
     print("Dört tane kenar girin.")
