@@ -19,9 +19,9 @@ if (şekil == "dörtgen") :
 
 elif (şekil == "üçgen"):
     print("Üç tane kenar girin.")
-    a = float(input("İlk kenarı gir."))
-    b = float(input("İkinci kenarı gir."))
-    c = float(input("Üçüncü kenarı gir."))
+    a = abs(float(input("İlk kenarı gir.")))
+    b = abs(float(input("İkinci kenarı gir.")))
+    c = abs(float(input("Üçüncü kenarı gir.")))
 
     if abs((a-b)< c < (a+b) and (a-c) < b < (a+c) and (b-c) < a < (a+c)):
         if a == b and a == c:
