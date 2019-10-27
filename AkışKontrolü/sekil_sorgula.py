@@ -26,7 +26,7 @@ elif (şekil == "üçgen"):
     if abs((a-b)< c < (a+b) and (a-c) < b < (a+c) and (b-c) < a < (b+c)):
         if a == b and a == c:
             print("Eşkenar üçgen.")
-        elif a == b and a != c or a == c and a != b or b == c and b =! a:
+        elif a == b and a != c or a == c and a != b or b == c and b != a:
             print("İkizkenar üçgen")
         else:
             print("Çeşitkenar üçgen.")
