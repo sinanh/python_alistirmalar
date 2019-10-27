@@ -1,7 +1,7 @@
 import math
 
 
-şekil = input("Üçgen mi Dörtgen mi?").lower()
+şekil = input("Üçgen mi Dörtgen mi?").lower().strip()
 
 if (şekil == "dörtgen") :
     print("Dört tane kenar girin.")
@@ -10,9 +10,9 @@ if (şekil == "dörtgen") :
     c = float(input("Üçüncü kenarı gir."))
     d = float(input("Dördüncü kenarı gir."))
 
-    if a == b and a == c and a == d :
+    if a == b == c == d:
         print("Kare")
-    elif a == b and c ==d or a == c and b == d or a == d and b == c:
+    elif a == b and c == d or a == c and b == d or a == d and b == c:
         print("Dikdörtgen")
     else:
         print("Dörtgen")
@@ -23,7 +23,7 @@ elif (şekil == "üçgen"):
     b = abs(float(input("İkinci kenarı gir.")))
     c = abs(float(input("Üçüncü kenarı gir.")))
 
-    if abs((a-b)< c < (a+b) and (a-c) < b < (a+c) and (b-c) < a < (b+c)):
+    if abs((a-b) < c < (a+b) and (a-c) < b < (a+c) and (b-c) < a < (b+c)):
         if a == b and a == c:
             print("Eşkenar üçgen.")
         elif a == b and a != c or a == c and a != b or b == c and b != a:
