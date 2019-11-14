@@ -15,3 +15,4 @@ Program kullanıcıdan üç kenar uzunluğu almaktadır, ve bu üç sayı ile bi
 
 # Problem 3 - Üçgen Açılar
 Program kullanıcıdan üç açı almaktadır, ve bu üç açı ile bir üçgen çizilip çizilmeyeceğini söyler.  
+
