@@ -15,3 +15,9 @@ Taş, makas, kağıt oynunu kodlayın, kullanıcı birini seçer, bilgisayar 1/3
 Girdi üsttekilerden biri değilse program tekrar girmesini sorar.
 
 Python'ın **random** kütüphanesindeki **randint()** fonksiyonunu kullanın.
+
+
+# Problem 2 -  1'den N'e kadar toplam 
+
+Program bir **N** sayısını girdi olarak alıyor. 1'den N'e kadar olan sayıların, N dahil, toplamını hesaplıyor.
+Formül kullanmadan yapın.
