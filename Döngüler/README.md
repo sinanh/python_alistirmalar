@@ -21,3 +21,9 @@ Python'ın **random** kütüphanesindeki **randint()** fonksiyonunu kullanın.
 
 Program bir **N** sayısını girdi olarak alıyor. 1'den N'e kadar olan sayıların, N dahil, toplamını hesaplıyor.
 Formül kullanmadan yapın.
+
+
+# Problem 3 -  Faktöriyel
+
+Program bir **N** sayısını girdi olarak alıyor. N!'i hesaplıyor.
+
