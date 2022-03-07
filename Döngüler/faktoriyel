@@ -1,0 +1,14 @@
+
+def fakt(x):
+
+    return 1\
+        if (x == 1 or x == 0)\
+        else x * fakt(x - 1);
+
+
+
+
+
+
+sayi = int(input(' Sayını Giriniz : '))
+print(str(sayi) + " Sayısının faktöriyeli  =  " + str(fakt(sayi)))
