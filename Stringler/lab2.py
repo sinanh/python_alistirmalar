@@ -1,13 +1,9 @@
-def func(x):
-    if x.islower():
-        return True
-    else:
-        return False
+def is_Lower(x):
+    return x.islower()
 
-print('Kelime girin: ', end="")
-x = input()
+x = input('Kelime girin: ')
 
-if(func(x)):
+if is_Lower(x):
     print('girilen kelime küçük harflerden oluşur.')
 else:
     print('kelimede büyük harfler vardır.')
