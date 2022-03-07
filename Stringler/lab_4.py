@@ -1,9 +1,8 @@
 import sys
 
 def findUpper(s):
-    for i in range(len(s)):
-        if s[i].isupper():
-            return True
+    if s.isupper():
+        return True
     return False
 
 if __name__ == '__main__':
